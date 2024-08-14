@@ -1,0 +1,990 @@
+Alte Apotheke
+Heinrichstr.
+Kirchstr.
+Innsbruckweg
+Telgenweg
+Mecklenbecker Str.
+Rückertstr.
+Telgenweg
+Von-Holte-Str.
+Hogenbergstr.
+Wolbecker Str.
+Marsweg
+Dorotheenstr.
+Gropiusstr.
+Steinfurter Str.
+Birkenweg
+Wormser Str.
+Kleiner Griechenmarkt
+An den Mühlen
+Simon-Meister-Str.
+Sternstr.
+Steinkamp
+Am Wigbold
+Unter Kahlenhausen
+Starweg
+Eibenweg
+Dauvemühle
+Gottesweg
+Rüschhausweg
+Kurneystr.
+Münzstr.
+Sporckweg
+Piusstr.
+Im Stemmen
+Angelstr.
+Am Oedingteich
+Äußere Kanalstr.
+Kanalstr.
+Landoisstr.
+Hermann-Treff-Weg
+Max-Winkelmann-Str.
+Hacklenburg
+Carossastr.
+Nienkamp
+Agrippastr.
+Sanddornweg
+Kerßenbrockstr.
+Bernhard-Poether-Str.
+Gottesweg
+An Lyskirchen
+Im Haubenfeld
+Am Brook
+Am Burloh
+Hahnenstr.
+Ölbergstr.
+Möserweg
+Marsweg
+Angelmodder Weg
+Soetenkamp
+Herdingstr.
+Piusstr.
+Jakobusstr.
+An Lyskirchen
+Dauvemühle
+Vorgebirgstr.
+Heroldstr.
+Telgenweg
+Johann-Krane-Weg
+Flaßkuhl
+Wiedehagen
+Meinertzstr.
+Arnheimweg
+An Lyskirchen
+Im Sonnentau
+Kreuzstr.
+Oberschlesier Str.
+Baumberger Str.
+Stettiner Str.
+Am Wigbold
+Nerzweg
+Im Stemmen
+Catharina-Müller-Str.
+Gremmendorfer Weg
+Overbergstr.
+Mecklenbecker Str.
+Rincklakeweg
+Rennbahnstr.
+Templerweg
+Mariendorfer Str.
+Nieland
+Zur Wiese
+Soester Str.
+Breul
+Flaßkuhl
+Schubertstr.
+Gescherweg
+Dammstr.
+Zum Guten Hirten
+Kurze Str.
+Am Krausen Baum
+Johanniterstr.
+Kirchstr.
+Wörthstr.
+Schwalbenweg
+Landoisstr.
+Am Burloh
+Avendruper Str.
+Äußere Kanalstr.
+Flaßkuhl
+Memmertweg
+Holunderweg
+Rückertstr.
+Gustav-Tweer-Weg
+Magdalenenstr.
+Zur Wiese
+Sporckweg
+Kappenberger Damm
+Meinertzstr.
+Langestr.
+Möserweg
+Enschedeweg
+Werkstattstr.
+Gropiusstr.
+Templerweg
+Straßburger Weg
+Marsweg
+Mondstr.
+Kerßenbrockstr.
+Hacklenburg
+Hillscheider Weg
+Papenbusch
+Berrischstr.
+Kreuzstr.
+Pankokstr.
+Rüschhausweg
+An den Mühlen
+Guntherstr.
+Langeworth
+Morthorststr.
+Enschedeweg
+Steinkamp
+An Lyskirchen
+Wollinstr.
+Dahlienweg
+Schwalbenweg
+Rüschhausweg
+Von-Holte-Str.
+Methweg
+Rohrkampstr.
+Gescherweg
+Papenbusch
+Kösliner Str.
+Schubertstr.
+Olpener Str.
+Carossastr.
+Christinastr.
+Holunderweg
+Fresnostr.
+Theodor-Heuss-Ring
+Münzstr.
+Rosenplatz
+Friedrichstr.
+Gleueler Str.
+Kröver Str.
+Böttcherstr.
+Pankokstr.
+Weseler Str.
+Sporckweg
+Altenhofer Weg
+Am Berler Kamp
+Morthorststr.
+Olpener Str.
+Flaßkuhl
+Hüfferstr.
+Im Draum
+Pankokstr.
+Norbertstr.
+Wiedehagen
+Norbertstr.
+Im Stemmen
+Sophienstr.
+Idenbrockplatz
+Mecklenbecker Str.
+Bernhard-Poether-Str.
+Sentmaringer Weg
+Josef-Suwelack-Weg
+Dorotheenstr.
+Westenkamp
+Telgenweg
+Sophienstr.
+Mindener Str.
+Kerßenbrockstr.
+Klinkkampweg
+Christinastr.
+Am Hörsterfriedhof
+Marientalstr.
+Teutonenstr.
+Agrippastr.
+Eulenbergstr.
+Rektoratsweg
+Hindenburgplatz
+Rennbahnstr.
+Alte Apotheke
+Hirseweg
+Hülsebrockstr.
+Ostmarkstr.
+Wolbecker Str.
+Tondernstr.
+Am Filk
+Raesfeldstr.
+Hölkenbusch
+Dauvemühle
+Soetenkamp
+Breul
+Langeworth
+Birkenweg
+Am Nubbenberg
+An Lyskirchen
+Hindenburgplatz
+Am Pulverschuppen
+Enschedeweg
+Am Brook
+Elsa-Brändström-Weg
+Telgenweg
+Am Dornbusch
+Hirseweg
+Schiffahrter Damm
+Herdingstr.
+Am Wigbold
+Carossastr.
+Theodor-Heuss-Ring
+Piusallee
+Max-Winkelmann-Str.
+Kanalstr.
+Widdeshover Weg
+Hillscheider Weg
+Jakobusstr.
+Guntherstr.
+Telgenweg
+Gremmendorfer Weg
+Röttgensweg
+Meesenstiege
+Wollinstr.
+Heisstr.
+Horstmarer Landweg
+An den Mühlen
+Nauheimer Str.
+An Lyskirchen
+Düesbergweg
+Am Nubbenberg
+Breul
+Hoove
+Kösliner Str.
+Meckmannweg
+Im Sonnentau
+Dorbaumstr.
+Augustastr.
+Eulenbergstr.
+Soester Str.
+Oscar-Wilde-Str.
+Hofstr.
+Marientalstr.
+Schmeddingstr.
+Hoove
+Unter Kahlenhausen
+Simon-Meister-Str.
+Methweg
+Wormser Str.
+Gartenstr.
+Arnheimweg
+Meckmannweg
+Von-Holte-Str.
+Am Blütenhain
+Geiststr.
+Catharina-Müller-Str.
+Johanniterstr.
+Widdeshover Weg
+Janningsweg
+Hüfferstr.
+Am Pulverschuppen
+Kirchstr.
+Mindener Str.
+Mariendorfer Str.
+Johanniterstr.
+Soetenkamp
+An den Weiden
+Nerzweg
+Memmertweg
+Ringelnatzstr.
+Sentmaringer Weg
+Am Wigbold
+Friedrichstr.
+Breslauer Str.
+Erpeler Str.
+Hillscheider Weg
+Widdeshover Weg
+Sophienstr.
+Merheimer Str.
+Dorbaumstr.
+Norbertstr.
+Jägerstr. A
+Meesenstiege
+Ostlandstr.
+Sternstr.
+Marientalstr.
+Landoisstr.
+Osthuesheide
+Hirseweg
+Rüschhausweg
+Jakobusstr.
+Straßburger Weg
+Neißestr.
+Am Krausen Baum
+Piusstr.
+Im Stemmen
+Rinkerodeweg
+Schubertstr.
+Schubertstr.
+Dreizehnerstr.
+Johanniterstr.
+Guntherstr.
+Kappenberger Damm
+Innsbruckweg
+Friesenring
+Stolbergstr.
+Dreilinden
+Kriegerweg
+Langestr.
+Arnheimweg
+Am Römerhof
+Zur Gräfte
+Bielefelder Str.
+Sternstr.
+Manfred-von-Richthofen-Str.
+Zülpicher Str.
+Im Stemmen
+Lassallestr.
+Kochwiesenstr.
+Starweg
+Am Oedingteich
+Josef-Suwelack-Weg
+Hülsebrockstr.
+Mariendorfer Str.
+Enschedeweg
+Eibenweg
+Ostlandstr.
+Hölkenbusch
+Dodostr.
+Kappenberger Damm
+Rinscheweg
+Papenbusch
+Kleiner Griechenmarkt
+Am Berler Kamp
+Friedrichstr.
+Breslauer Str.
+Ringelnatzstr.
+Am Römerhof
+Offenbergstr.
+Carossastr.
+Werkstattstr.
+Morthorststr.
+Im Stemmen
+Janningsweg
+Heroldstr.
+Am Blütenhain
+Kurneystr.
+Bielefelder Str.
+An Lyskirchen
+Sanddornweg
+Florentine-Eichler-Str.
+Hüfferstr.
+Meckmannweg
+Im Sonnentau
+Norbertstr.
+Marsweg
+Neißestr.
+Soester Str.
+Kösliner Str.
+Beuelsweg
+Im Sonnentau
+Hölkenbusch
+Sentmaringer Weg
+Kreuzstr.
+Hillscheider Weg
+Am Burloh
+Sophienstr.
+Bielefelder Str.
+Rennbahnstr.
+Kleiner Griechenmarkt
+Düesbergweg
+Gartenstr.
+Steinkamp
+Drachterstr.
+Gottesweg
+Am Nubbenberg
+Werseblick
+Stolbergstr.
+Breslauer Str.
+Franz-Peter-Kürten-Weg
+Am Ziegelofen
+Kreuzstr.
+Teutonenstr.
+An den Weiden
+Skagerrakstr.
+Flaßkuhl
+Wollinstr.
+Ostlandstr.
+Kriegerweg
+Templerweg
+Berrischstr.
+Enschedeweg
+Straßburger Weg
+Augustastr.
+Wolbecker Str.
+Stettiner Str.
+An den Weiden
+Hölkenbusch
+Weißenburgstr.
+Mindener Str.
+Oberschlesier Str.
+Piusstr.
+Gottesweg
+An den Mühlen
+Dorotheenstr.
+Franz-Peter-Kürten-Weg
+Meesenstiege
+Am Ziegelofen
+Marktstr.
+Rinscheweg
+Teutonenstr.
+Am Grauen Stein
+Schubertstr.
+Weserstr.
+Heroldstr.
+Marktstr.
+Zur Wiese
+Weserstr.
+Mariendorfer Str.
+Münzstr.
+Norbertstr.
+Rinscheweg
+Agrippastr.
+Josef-Suwelack-Weg
+Avendruper Str.
+Gustav-Tweer-Weg
+Rincklakeweg
+Dodostr.
+Gremmendorfer Weg
+Dauvemühle
+Memmertweg
+Schmittingheide
+Hoove
+Ostmarkstr.
+Uhuweg
+Am Oedingteich
+Westenkamp
+Steinkamp
+Herdingstr.
+Mondstr.
+Am Römerhof
+Dachsleite
+Kurneystr.
+Marktstr.
+Kriegerweg
+Grevener Str.
+Düsseldorfer Str.
+Deutz-Kalker Str.
+Carossastr.
+Kurneystr.
+Ulmenweg
+Mecklenbecker Str.
+Drachterstr.
+Immelmannstr.
+Dingbängerweg
+Telemannstr.
+Papenbusch
+Breslauer Str.
+Buldernweg
+Zur Gräfte
+Kochwiesenstr.
+Hermann-Treff-Weg
+Neusser Str.
+Olpener Str.
+Dingbängerweg
+Hermann-Treff-Weg
+Johann-Krane-Weg
+Hindenburgplatz
+Franz-Peter-Kürten-Weg
+Dammstr.
+Stettiner Str.
+Immelmannstr.
+Teutonenstr.
+Raesfeldstr.
+Görlitzer Str.
+Mindener Str.
+Maximilianstr.
+Papenbusch
+Angelmodder Weg
+Am Krausen Baum
+Catharina-Müller-Str.
+Enschedeweg
+Merheimer Str.
+Soester Str.
+Gasselstiege
+Willingrott
+Gartenstr.
+Telemannstr.
+Gustav-Tweer-Weg
+Sentmaringer Weg
+Neusser Str.
+Bohlweg
+Düesbergweg
+Hofstr.
+Steinkamp
+Elsa-Brändström-Weg
+Am Blütenhain
+Max-Winkelmann-Str.
+Dreilinden
+Von-Holte-Str.
+Sporckweg
+Starweg
+Hüfferstr.
+Josef-Suwelack-Weg
+Catharina-Müller-Str.
+Guntherstr.
+Frauenstr.
+Im Sonnentau
+Methweg
+Flaßkuhl
+Holunderweg
+Gescherweg
+Wollinstr.
+Christinastr.
+Angelmodder Weg
+Münsterstr.
+Zur Gräfte
+Kreuzstr.
+Bohlweg
+Am Oedingteich
+Handorfer Str.
+Carossastr.
+Kempener Str.
+Dreizehnerstr.
+Marderweg
+Schmeddingstr.
+Zülpicher Str.
+Marderweg
+Erikahof
+Am Burloh
+Augustastr.
+Schubertstr.
+Manfred-von-Richthofen-Str.
+Äußere Kanalstr.
+Deutz-Kalker Str.
+Marktstr.
+Maximilianstr.
+Kapellenstr.
+Am Ziegelofen
+Wolbecker Str.
+Maximilianstr.
+Catharina-Müller-Str.
+Wörthstr.
+Steinkamp
+Hahnenstr.
+Angelmodder Weg
+Immelmannstr.
+Marktstr.
+Kirchstr.
+Pötterhoek
+Birkenweg
+Idenbrockplatz
+Merheimer Str.
+Im Stemmen
+Frauenstr.
+Röttgensweg
+Am Wigbold
+Kempener Str.
+Mecklenbecker Str.
+Werseblick
+Rektoratsweg
+Am Wigbold
+Sentmaringer Weg
+Horstmarer Landweg
+Sentmaringer Weg
+Schmeddingstr.
+Südstr.
+Flaßkuhl
+Zur Wiese
+Telgenweg
+Vorgebirgstr.
+Kurze Str.
+Wollinstr.
+Idenbrockplatz
+Teutonenstr.
+Dauvemühle
+An den Weiden
+Am Hörsterfriedhof
+An den Mühlen
+Herdingstr.
+Münsterstr.
+Am Brook
+Am Getterbach
+Gropiusstr.
+Langestr.
+Piusallee
+Holunderweg
+Johann-Krane-Weg
+Weseler Str.
+Piusstr.
+Jakobusstr.
+Dorotheenstr.
+Rennbahnstr.
+Zur Gräfte
+Kapellenstr.
+Am Blütenhain
+Möserweg
+Mariendorfer Str.
+Gustav-Tweer-Weg
+Dachsleite
+Innsbruckweg
+Havichhorster Mühle
+Albachtener Str.
+Cheruskerstr.
+Ölbergstr.
+Marktstr.
+Merheimer Str.
+Dreizehnerstr.
+Görlitzer Str.
+Holunderweg
+Von-Holte-Str.
+Beuelsweg
+Enschedeweg
+Klinkkampweg
+Josef-Suwelack-Weg
+Kriegerweg
+Dortmunder Str.
+Kochwiesenstr.
+Liboristr.
+Hoove
+Kurze Str.
+Wiedehagen
+Ossenkampstiege
+Carossastr.
+Alte Apotheke
+Westenkamp
+Uhuweg
+Weserstr.
+Gasselstiege
+Neusser Str.
+Overbergstr.
+Olpener Str.
+Steinkamp
+Langeworth
+Goebenstr.
+Kleiner Griechenmarkt
+Dahlienweg
+Westenkamp
+Von-Holte-Str.
+Hansaring
+Dodostr.
+Eifelstr.
+Studtstr.
+Angelstr.
+Zur Wiese
+Liboristr.
+Im Stemmen
+Dahlienweg
+Langeworth
+Ostmarkstr.
+Wiedehagen
+Drachterstr.
+Pankokstr.
+Kempener Str.
+Stolbergstr.
+Dauvemühle
+Jägerstr. A
+Elsa-Brändström-Weg
+Wiedehagen
+Gescherweg
+Fresnostr.
+Norbertstr.
+Kröver Str.
+Äußere Kanalstr.
+Werseblick
+Kurneystr.
+Dodostr.
+Dorotheenstr.
+Von-Holte-Str.
+Kochwiesenstr.
+Emdener Str.
+An den Weiden
+Pötterhoek
+Ossenkampstiege
+Heinrichstr.
+Telemannstr.
+Friesenring
+Friedrichstr.
+Am Brook
+Hensenstr.
+Paul-Engelhard-Weg
+Stettiner Str.
+Dorbaumstr.
+Franz-Peter-Kürten-Weg
+Sentmaringer Weg
+Rosenplatz
+Paul-Engelhard-Weg
+Erikahof
+Kröver Str.
+Kriegerweg
+Offenbergstr.
+Eifelstr.
+Rinkerodeweg
+Marientalstr.
+Möserweg
+Rinkerodeweg
+Ripenhorst
+Düsseldorfer Str.
+Wörthstr.
+An den Weiden
+Dreizehnerstr.
+Hillscheider Weg
+Hillscheider Weg
+Äußere Kanalstr.
+Erikahof
+Eulenbergstr.
+Josef-Suwelack-Weg
+Steinkamp
+Schubertstr.
+Neißestr.
+Albachtener Str.
+Dachsleite
+Salzmannstr.
+Eulenbergstr.
+Heinrichstr.
+Overbergstr.
+Kriegerweg
+Weseler Str.
+Gildenstr.
+Osthuesheide
+Olpener Str.
+Münsterstr.
+Sentmaringer Weg
+Albachtener Str.
+Ringelnatzstr.
+Horstmarer Landweg
+Dortmunder Str.
+Gottesweg
+Landoisstr.
+Am Pulverschuppen
+Heinrichstr.
+Am Berler Kamp
+Herdingstr.
+Magdalenenstr.
+Schmittingheide
+Olpener Str.
+Augustastr.
+Widdeshover Weg
+Soester Str.
+Rottkamp
+Olpener Str.
+Enschedeweg
+Neusser Str.
+Von-der-Tinnen-Str.
+Wollinstr.
+Angelstr.
+Dachsleite
+Marsweg
+An Lyskirchen
+Morthorststr.
+Hahnenstr.
+Görlitzer Str.
+Bernhard-Poether-Str.
+Düsseldorfer Str.
+An den Weiden
+Methweg
+Westenkamp
+Gleueler Str.
+Gropiusstr.
+Beuelsweg
+Theodor-Heuss-Ring
+Werseblick
+Salzmannstr.
+Wolbecker Str.
+Innsbruckweg
+Dachsleite
+Rektoratsweg
+Fresnostr.
+Am Ziegelofen
+Münsterstr.
+Heroldstr.
+Erikahof
+Goldregenweg
+Am Krausen Baum
+Methweg
+Wormser Str.
+Johanniterstr.
+Im Sonnentau
+Mindener Str.
+Cheruskerstr.
+Kempener Str.
+Baumberger Str.
+Hacklenburg
+Am Filk
+Albachtener Str.
+Marderweg
+Piusallee
+Am Oedingteich
+Kempener Str.
+Dorbaumstr.
+Jakobusstr.
+Sporckweg
+Möserweg
+Rincklakeweg
+Scheibenstr.
+Zur Wiese
+Offerkämpe
+Kröver Str.
+Kurze Str.
+Oberschlesier Str.
+Görlitzer Str.
+Florentine-Eichler-Str.
+Hacklenburg
+Schützenstr.
+Ölbergstr.
+Handorfer Str.
+Buldernweg
+Sternstr.
+Zur Gräfte
+Offenbergstr.
+Simon-Meister-Str.
+Geiststr.
+Grevener Str.
+Soetenkamp
+Paul-Engelhard-Weg
+Am Filk
+Eulenbergstr.
+Im Haubenfeld
+Goebenstr.
+Kleiner Griechenmarkt
+Johann-Krane-Weg
+Merheimer Str.
+Eibenweg
+Soetenkamp
+Oscar-Wilde-Str.
+Pötterhoek
+Görlitzer Str.
+Rosenplatz
+Kreuzstr.
+Im Sonnentau
+Görlitzer Str.
+Starweg
+Rinkerodeweg
+Rosenplatz
+Am Nubbenberg
+Horstmarer Landweg
+Mondstr.
+Meinertzstr.
+Böttcherstr.
+Am Getterbach
+Zülpicher Str.
+Flaßkuhl
+Rückertstr.
+Kröver Str.
+Kriegerweg
+Baumberger Str.
+Ringelnatzstr.
+Dorotheenstr.
+Am Ziegelofen
+Hofstr.
+Am Römerhof
+Schützenstr.
+Am Filk
+Kochwiesenstr.
+Liboristr.
+Kapellenstr.
+Schmeddingstr.
+Zur Wiese
+Deutz-Kalker Str.
+Starweg
+Manfred-von-Richthofen-Str.
+Manfred-von-Richthofen-Str.
+Dodostr.
+Rincklakeweg
+Friedrich-Ebert-Str.
+Kösliner Str.
+Bernhard-Poether-Str.
+Am Blütenhain
+Rincklakeweg
+Gremmendorfer Weg
+Dreilinden
+Widdeshover Weg
+Stettiner Str.
+Soetenkamp
+Ostmarkstr.
+Rektoratsweg
+Kochwiesenstr.
+Florentine-Eichler-Str.
+Lammerbach
+Zur Gräfte
+Rektoratsweg
+Hirseweg
+Königsberger Str.
+Christinastr.
+Gartenstr.
+Düsseldorfer Str.
+Theodor-Heuss-Ring
+Franz-Peter-Kürten-Weg
+Zur Gräfte
+Goldregenweg
+Hindenburgplatz
+Im Sonnentau
+Christinastr.
+Weißenburgstr.
+Görlitzer Str.
+Zur Gräfte
+Havichhorster Mühle
+Kurneystr.
+Lassallestr.
+Albachtener Str.
+Am Nubbenberg
+Gasselstiege
+Frauenstr.
+Piusallee
+Carossastr.
+Dorotheenstr.
+Skagerrakstr.
+Nauheimer Str.
+Immelmannstr.
+Dauvemühle
+Kreuzstr.
+Schmittingheide
+Ostlandstr.
+Jakobusstr.
+Memmertweg
+Dauvemühle
+Hermann-Treff-Weg
+Emdener Str.
+Berrischstr.
+Tondernstr.
+Werseblick
+An den Weiden
+Westenkamp
+Rottkamp
+Dachsleite
+Am Wigbold
+Weißenburgstr.
+Am Blütenhain
+Bielefelder Str.
+Dortmunder Str.
+Agrippastr.
+Hacklenburg
+Hüfferstr.
+Mariendorfer Str.
+Wormser Str.
+Grevener Str.
+Königsberger Str.
+Erikahof
+Liboristr.
+Mondstr.
+Kröver Str.
+Ostlandstr.
+Kerßenbrockstr.
+Ölbergstr.
+Olpener Str.
+Werseblick
+Manfred-von-Richthofen-Str.
+Innsbruckweg
+Im Sonnentau
+Kreuzstr.
+Speestr. -
+Idenbrockplatz
+Wiedehagen
+Teutonenstr.
+Schützenstr.
+Mondstr.
+Alte Apotheke
+Sentmaringer Weg
+Gasselstiege
+Neißestr.
+Paul-Engelhard-Weg
+Morthorststr.
+Steinkamp
+Am Getterbach
+Emdener Str.
+Schützenstr.
+Angelstr.
+Arnheimweg
+Starweg
+Wiedehagen
+Zur Gräfte
